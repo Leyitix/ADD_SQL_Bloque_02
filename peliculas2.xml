@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<peliculas>
+    <pelicula id="1">
+        <titulo>The Black Phone</titulo>
+        <director>The Black Phone</director>
+        <genero>Terror</genero>
+        <duracion>1h 42m</duracion>
+        <estreno>2021</estreno>
+    </pelicula>
+    <pelicula id="2">
+        <titulo>Prey</titulo>
+        <director>Prey</director>
+        <genero>Accion</genero>
+        <duracion>1h 40m</duracion>
+        <estreno>2022</estreno>
+    </pelicula>
+    <pelicula id="3">
+        <titulo>The Batman</titulo>
+        <director>The Batman</director>
+        <genero>Superheroes</genero>
+        <duracion>2h 50m</duracion>
+        <estreno>2022</estreno>
+    </pelicula>
+</peliculas>
